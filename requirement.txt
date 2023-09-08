@@ -3,3 +3,5 @@ This is chat Application
  type option 
 colors
  vibrant
+Dark mode
+video calls
